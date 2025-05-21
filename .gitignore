@@ -3,3 +3,4 @@ venv
 .vscode
 .OTTER_LOG
 *.pyc
+*.zip
